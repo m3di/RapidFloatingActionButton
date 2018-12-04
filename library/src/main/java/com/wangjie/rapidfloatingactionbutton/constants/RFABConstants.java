@@ -19,7 +19,7 @@ public class RFABConstants {
         /**
          * RFAB或内容中间图片的大小
          */
-        public static final int RFAB_DRAWABLE_SIZE_DP = 24;
+        public static final int RFAB_DRAWABLE_SIZE_DP = 56;
         /**
          * RFAB展开内容尺寸
          */
